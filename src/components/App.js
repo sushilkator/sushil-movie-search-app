@@ -1,11 +1,9 @@
 import React, {Component} from 'react';
 import '../scss/main.scss';
 import { searchMovies, getMovie } from "../api/api";
-import Navbar from './Navbar';
 import MovieInput from './MovieInput';
 import MovieList from './MovieList';
 import ShowMovie from './ShowMovie';
-import Footer from './Footer';
 import IllustrationEmptyState from './../public/layout/exports/illustrations/illustration-empty-state.png';
 
 class App extends Component {

@@ -7,7 +7,7 @@ A single page application for obtaining movie information.
 * Clone the repository
 
 ```
-https://github.com/KayOhhDee/react-movie-search-app.git
+https://github.com/sushilkator/sushil-movie-search-app.git
 ```
 
 ### Prerequisites
